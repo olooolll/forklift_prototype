@@ -1,6 +1,6 @@
-# Projeto Empilhadeira Autônoma
+<h1> Projeto Empilhadeira Autônoma </h1>
 
-## O projeto da Empilhadeira Autônoma visa desenvolver um sistema inovador que permita aos usuários selecionar e manipular paletes de forma eficiente e autônoma. Combinando tecnologias avançadas de visão computacional, aprendizado de máquina e controle automatizado, nossa empilhadeira oferece uma solução versátil para ambientes industriais e logísticos.
+<p> O projeto da Empilhadeira Autônoma visa desenvolver um sistema inovador que permita aos usuários selecionar e manipular paletes de forma eficiente e autônoma. Combinando tecnologias avançadas de visão computacional, aprendizado de máquina e controle automatizado, nossa empilhadeira oferece uma solução versátil para ambientes industriais e logísticos.</p>
 
 Funcionalidades Principais:
 
